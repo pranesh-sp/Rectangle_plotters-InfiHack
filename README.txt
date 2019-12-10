@@ -1,5 +1,3 @@
-# Rectangle_plotters-InfiHack
-
 ###############################################################################
 Team Mirai - Plotting Algos
 ###############################################################################
@@ -7,7 +5,7 @@ Team Mirai - Plotting Algos
 
 Requirements-
 
-Python 3 with tkinter, Pandas, rectangle-packer
+1) Python 3 with tkinter, Pandas, rectangle-packer
 
 
 

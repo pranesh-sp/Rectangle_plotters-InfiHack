@@ -1,0 +1,8 @@
+Block_Type,Block_Count,Area_of_each_block (mm^2),Dir (wrt design),No_of_Edges
+Block_A,3,3,Right,4
+Block_B,3,1,Any,4
+Block_C,2,4,Top,4
+Block_D,1,7,Any,4
+Block_E,4,1,Bottom,4
+Block_F,1,1,Any,4
+Block_G,2,3,Left,4

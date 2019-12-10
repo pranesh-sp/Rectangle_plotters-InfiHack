@@ -1,0 +1,7 @@
+Block_Type,Block_Count,Width,Height,Dir (wrt design),No_of_Edges
+Block_A,1,58,206,any,4
+Block_B,1,231,176,any,4
+Block_C,1,35,113,any,4
+Block_D,1,46,109,any,4
+Block_E,1,48,113,any,4
+Block_F,1,201,150,any,4
